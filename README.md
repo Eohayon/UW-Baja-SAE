@@ -4,4 +4,4 @@ As Team Captain and Powertrain Lead of the University of Waterloo Baja SAE team,
 
 <img src="https://github.com/Eohayon/UW-Baja-SAE/blob/main/Pictures/ISO.png" width="60%" height="60%">
 
-<img src="https://github.com/Eohayon/UW-Baja-SAE/blob/main/Pictures/FRONT.png" width="30%" height="30%"> <img src="https://github.com/Eohayon/UW-Baja-SAE/blob/main/Pictures/SIDE.png" width="47.5%" height="47.5%">
+<img src="https://github.com/Eohayon/UW-Baja-SAE/blob/main/Pictures/FRONT.png" width="30%" height="30%"> <img src="https://github.com/Eohayon/UW-Baja-SAE/blob/main/Pictures/SIDE.png" width="48%" height="48%">
